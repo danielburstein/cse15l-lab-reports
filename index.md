@@ -1,6 +1,6 @@
 # Daniel Burstein
 ---
-**Page 1**
-* Section 1
-* Section 2
-* Section 3
+**Sports I like to do**
+* Basketball
+* Tennis
+* Rock Climbing
