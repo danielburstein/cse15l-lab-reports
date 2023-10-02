@@ -5,4 +5,4 @@
 * Tennis
 * Rock Climbing
 
-This is my website: [Link](http://a.com)
+This is my website: [Link](https://danielburstein.github.io/cse15l-lab-reports/)
