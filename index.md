@@ -61,7 +61,7 @@
 
 - Input: Directory
   
-![Image](cat directory input.png)
+![Image](cat_directory.png)
 
 1. Working Directory:
 2. Sentence
@@ -70,3 +70,7 @@
 - Input: File
   
 ![Image](cat file input.png)
+
+1. Working Directory:
+2. Sentence
+3. Error?
