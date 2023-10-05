@@ -6,7 +6,7 @@
   
 ![Image](cd no input.png)
 
-1. Working Directory:
+1. Working Directory: /home
 2. Sentence
 3. Error?
    
@@ -15,7 +15,7 @@
   
 ![Image](cd with input.png)
 
-1. Working Directory:
+1. Working Directory: /home
 2. Sentence
 3. Error?
    
@@ -24,18 +24,19 @@
   
 ![Image](cd with file input.png)
 
-1. Working Directory:
+1. Working Directory: /home/lecture1
 2. Sentence
 3. Error?
    
 ---
-**LS Command:**
+
+**LS Command: **
 ---
 - Input: None
   
 ![Image](ls no input.png)
 
-1. Working Directory:
+1. Working Directory: /home
 2. Sentence
 3. Error?
    
@@ -44,7 +45,7 @@
   
 ![Image](ls with directory input.png)
 
-1. Working Directory:
+1. Working Directory: /home
 2. Sentence
 3. Error?
    
@@ -53,18 +54,19 @@
   
 ![Image](ls file input.png)
 
-1. Working Directory:
+1. Working Directory: /home/lecture1
 2. Sentence
 3. Error?
    
 ---
+
 **CAT Command:**
 ---
 - Input: None
   
 ![Image](cat no input.png)
 
-1. Working Directory:
+1. Working Directory: /home
 2. Sentence
 3. Error?
    
@@ -73,7 +75,7 @@
   
 ![Image](cat_directory.png)
 
-1. Working Directory:
+1. Working Directory: /home
 2. Sentence
 3. Error?
    
@@ -82,6 +84,6 @@
   
 ![Image](cat file input.png)
 
-1. Working Directory:
+1. Working Directory: /home/lecture1
 2. Sentence
 3. Error?
