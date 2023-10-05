@@ -1,8 +1,8 @@
-# Daniel Burstein
----
-**Sports I like to do**
-* Basketball
-* Tennis
-* Rock Climbing
+# Lab Report 1
 
-This is my website: [Link](https://danielburstein.github.io/cse15l-lab-reports/)
+![Image](cd no input.png)
+
+![Image](cd with input.png)
+
+![Image](cd with file input.png)
+
