@@ -9,6 +9,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 - Input: Directory
   
@@ -17,6 +18,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 - Input: File
   
@@ -25,6 +27,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 **LS Command:**
 ---
@@ -35,6 +38,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 - Input: Directory
   
@@ -43,6 +47,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 - Input: File
   
@@ -51,6 +56,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 **CAT Command:**
 ---
@@ -61,6 +67,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 - Input: Directory
   
@@ -69,6 +76,7 @@
 1. Working Directory:
 2. Sentence
 3. Error?
+   
 ---
 - Input: File
   
