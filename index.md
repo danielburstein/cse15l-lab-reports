@@ -30,7 +30,7 @@
    
 ---
 
-**LS Command: **
+**LS Command:**
 ---
 - Input: None
   
