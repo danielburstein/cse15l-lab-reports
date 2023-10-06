@@ -7,8 +7,8 @@
 ![Image](cd no input.png)
 
 1. Working Directory: /home
-2. Sentence
-3. Error?
+2. I got this output because it didn't do anything. This command is meant to change the directory you are in based on your input and because there was no input you didn't change anything.
+3. This output is not an error.
    
 ---
 - Input: Directory
@@ -16,8 +16,8 @@
 ![Image](cd with input.png)
 
 1. Working Directory: /home
-2. Sentence
-3. Error?
+2. There wasn't an output but there was a change in the directory I was in. Before the command, I was in the directory /home, and after the command, I was in the directory /home/lecture1 . This change happened because the cd command changed the directory I was in based on my input (lecture1) 
+3. This output is not an error.
    
 ---
 - Input: File
