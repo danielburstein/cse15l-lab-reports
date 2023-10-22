@@ -7,7 +7,7 @@
 ![Image](cd no input.png)
 
 1. Working Directory: /home
-2. I got this output because it didn't do anything. This command is meant to change the directory you are in based on your input and because there was no input I didn't change the directory I was in.
+2. I got this output because running the command cd without an input puts you in the home directory. Due to me being in the home directory already it did not change my working directory.
 3. This output is not an error.
    
 ---
