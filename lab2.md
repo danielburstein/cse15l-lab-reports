@@ -2,6 +2,7 @@
 
 ---
 **Part 1:**
+
 StringServer code:
   
 ![Image](lab2Pic1.png)
