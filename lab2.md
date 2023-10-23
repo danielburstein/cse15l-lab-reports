@@ -4,17 +4,17 @@
 ---
 StringServer code:
   
-![Image](cd no input.png)
+![Image](lab2Pic1.png)
 
 ---
 First /add-message:
 
-![Image](cd no input.png)
+![Image](lab2Pic2.png)
 
 ---
 Second /add-message:
 
-![Image](cd no input.png)
+![Image](lab2Pic3.png)
 
 ---
 
