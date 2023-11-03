@@ -25,13 +25,34 @@
   Symptom:
   ![Image](PassSymptom.png)
 
----
-Second /add-message:
+3. Problematic Function:
+      ~~~
+     static double averageWithoutLowest(double[] arr) {
+    if(arr.length < 2) { return 0.0; }
+    double lowest = arr[0];
+    for(double num: arr) {
+      if(num < lowest) { lowest = num; }
+    }
+    double sum = 0;
+    for(double num: arr) {
+      if(num != lowest) { sum += num; }
+    }
+    return sum / (arr.length - 1);
+   }
+  ~~~
+4. Fixed Function:
+   ~~~
+     static double averageWithoutLowest(double[] arr) {
+    if(arr.length < 2) { return 0.0; }
+    double lowest = arr[0];
+    for(double num: arr) {
+      if(num < lowest) { lowest = num; }
+    }
+    double sum = 0;
+    for(double num: arr) {
+      if(num != lowest) { sum += num; }
+    }
+    return sum / (arr.length - 1);
+   }
+  ~~~
 
-![Image](Lab2Pic3.png)
-
-1. Methods:
-2. Arguments and Values:
-3. Change:
-   
----
