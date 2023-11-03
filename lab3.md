@@ -41,7 +41,7 @@
      }
 ~~~
 4. Fixed Function:
-  ~~~
+~~~
     static double averageWithoutLowest(double[] arr) {
       if(arr.length < 2) { return 0.0; }
       double lowest = arr[0];
