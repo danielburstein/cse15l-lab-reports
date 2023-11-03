@@ -3,7 +3,7 @@
 ---
 **Part 1:**
 
-1. A failure-inducing:
+1. A failing test:
   ~~~
   @Test
   public void failTestAverageWithoutLowest() {
