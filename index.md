@@ -17,8 +17,6 @@
 [Lab3Button]: https://img.shields.io/badge/Click%20this%20to%20get%20to%20Lab%203-green
 
 
-
-
 [Lab1]: lab1.html
 [Lab2]: lab2.html
 [Lab3]: lab3.html
