@@ -3,6 +3,7 @@
 
 
 **Want to learn a bit about terminal and websites?**
+
 Go through these labs and get a better understanding:
 
 Lab 1 (Terminal Commands):
@@ -13,7 +14,7 @@ Lab 2 (Running a webserver):
 
 [![Lab2Button]][Lab2]
 
-Lab 3 (Running a webserver):
+Lab 3 (Creating tests on a function):
 
 [![Lab3Button]][Lab3]
 
