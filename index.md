@@ -1,8 +1,7 @@
 # Daniel Burstein
 ---
-**Sports I like to do**
-* Basketball
-* Tennis
-* Rock Climbing
+**Want to learn how terminal and making a server works?**
+* Lab 1: [Click this to see Lab 1](https://danielburstein.github.io/cse15l-lab-reports/lab1.html)
+* Lab 2: [Click this to see Lab 2](https://danielburstein.github.io/cse15l-lab-reports/lab2.html)
+* Lab 3: [Click this to see Lab 3](https://danielburstein.github.io/cse15l-lab-reports/lab3.html)
 
-This is my website: [Link](https://danielburstein.github.io/cse15l-lab-reports/)
