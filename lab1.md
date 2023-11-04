@@ -1,4 +1,6 @@
+
 # Lab Report 1
+[![GoBack]][Back]
 
 **CD Command:**
 ---
@@ -87,3 +89,9 @@
 1. Working Directory: /home/lecture1
 2. The output I got from this command printed out the code that was inside of the Hello.java file. I got this output because the command cat takes a file as an input and prints out the contents inside of it. In this situation I was in the /home/lecture1 working directory so inputting the file Hello.java is allowed because that file is also located in the /home/lecture1 working directory. So as a result it printed out the contents inside the Hello.java file.
 3. This output is not an error.
+
+It Seems like you finished click this button if you want to go back:
+[![GoBack]][Back]
+<!---------------------------------------------------------------------------->
+[GoBack]: https://img.shields.io/badge/%E2%86%90%20Go%20Back-red
+[Back]: ..
