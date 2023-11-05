@@ -62,5 +62,27 @@ The problematic function failed in the situation when multiple numbers in the ar
 ---
 **Part 2:**
 
-This is something
+Find Command:
+
+1. -name:
+  File:
+  ![Image](nameOnFile.png)
+
+  Directory:
+  ![Image](nameOnDirectory.png)
+
+2. Option 2:
+  File:
+
+  Directory:
+
+3. Option 3:
+  File:
+
+  Directory:
+
+4. Option 4:
+  File:
+
+  Directory:
 
