@@ -65,11 +65,12 @@ The problematic function failed in the situation when multiple numbers in the ar
 Find Command:
 
 1. -name:
+
   File:
-  ![Image](nameOnFile.png)
+    ![Image](nameOnFile.png)
 
   Directory:
-  ![Image](nameOnDirectory.png)
+    ![Image](nameOnDirectory.png)
 
 2. Option 2:
   File:
