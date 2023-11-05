@@ -29,11 +29,13 @@ Second /add-message:
 
 **Part 2:**
 
-1. Working Directory: /home
-2. I got this output because running the command cd without an input puts you in the home directory. Due to me being in the home directory already it did not change my working directory.
-3. This output is not an error.
+1. Path to the private key:
+   ![Image](privatekey.png)
+2. Path to the public key
+
+3. Log in:
    
 ---
 **Part 3:**
 
-I am talking about something.
+One thing I learned from this week's lab was how to set up an SSH key and authorize myself to not need to use a password when connecting to the remote server. I didn't think this was even possible before this lab and think that its really cool that we are able to do this.
