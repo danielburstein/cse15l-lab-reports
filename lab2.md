@@ -30,7 +30,9 @@ Second /add-message:
 **Part 2:**
 
 1. Path to the private key:
+   
    ![Image](privatekey.png)
+   
 2. Path to the public key
 
 3. Log in:
