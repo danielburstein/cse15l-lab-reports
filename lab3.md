@@ -75,10 +75,15 @@ Find Command:
   Source:
   [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
 
-2. Option 2:
+2. -size:
   File:
+    ![Image](lab3findsize1.png)
 
   Directory:
+    ![Image](lab3findsize1.png)
+
+  Source:
+  [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/#:~:text=G%3A%20Gigabytes-,The%20following%20command%20will%20find,-all%20files%20of)
 
 3. Option 3:
   File:
