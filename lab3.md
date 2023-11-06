@@ -67,10 +67,13 @@ Find Command:
 1. -name:
 
   File:
-    ![Image](nameOnFile.png)
+    ![Image](lab3findname1.png)
 
   Directory:
-    ![Image](nameOnDirectory.png)
+    ![Image](lab3findname2.png)
+
+  Source:
+  [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
 
 2. Option 2:
   File:
