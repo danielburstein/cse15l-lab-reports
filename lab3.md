@@ -69,8 +69,16 @@ Find Command:
   File:
     ![Image](lab3findname1.png)
 
+    > What's happening: The command "find ./technical -type f -name "chapter*.txt"" is looking recursively
+    > through all the paths of files inside of /technical to see if it contains "chapter" + anything + ".txt".
+    > Then it returns all of those paths.
+
   Directory:
     ![Image](lab3findname2.png)
+
+      > What's happening: The command "find ./technical -type d -name "*"" is looking recursively
+      > through all the paths of directories inside of /technical to see if they contain anything.
+      > Then it returns all of those paths.
 
   Source:
   [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
@@ -80,8 +88,16 @@ Find Command:
   File:
     ![Image](lab3findsize1.png)
 
+      > What's happening: The command "find ./technical -type f -size +200000c" is looking recursively
+      > through all the paths of files inside of /technical to see if the file is larger than 200000 bytes.
+      > Then it returns all of those paths.
+
   Directory:
     ![Image](lab3findsize2.png)
+
+      > What's happening: The command "find ./technical -type d -size +2000c" is looking recursively
+      > through all the paths of directories inside of /technical to see if the directory is larger than 2000 bytes.
+      > Then it returns all of those paths.
 
   Source:
   [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/#:~:text=G%3A%20Gigabytes-,The%20following%20command%20will%20find,-all%20files%20of)
@@ -92,8 +108,16 @@ Find Command:
     ![Image](lab3findtime1.png)
     ![Image](lab3findtime2.png)
 
+      > What's happening: The command "find ./technical -type f -mtime -7" is looking recursively
+      > through all the paths of files inside of /technical to see if the file's last modification was within 7 days.
+      > Then it returns all of those paths.
+      
   Directory:
     ![Image](lab3findtime3.png)
+    
+      > What's happening: The command "find ./technical -type d -mtime +5" is looking recursively
+      > through all the paths of directories inside of /technical to see if the directory's last modification was more than 5 days ago.
+      > Then it returns all of those paths. 
 
   Source:
     [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
@@ -104,8 +128,16 @@ Find Command:
     ![Image](lab3findnot1.png)
     ![Image](lab3findnot2.png)
 
+      > What's happening: The command "find ./technical -type f -not -name "chapter*.txt"" is looking recursively
+      > through all the paths of files inside of /technical to see if the file's name does not contain "chapter" + anything + ".txt".
+      > Then it returns all of those paths.
+
   Directory:
     ![Image](lab3findnot3.png)
+
+      > What's happening: The command "find ./technical -type d -not -name "*t"" is looking recursively
+      > through all the paths of directories inside of /technical to see if the directory's name does not contain anything + "t".
+      > This just removes all directory's that end in a "t". Then it returns all of those paths.
 
   Source:
     [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
