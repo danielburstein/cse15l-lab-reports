@@ -57,4 +57,4 @@ The first change to the variables pre-set outside this function happens to "Stri
 ---
 **Part 3:**
 
-One thing I learned from this week's lab was how to set up an SSH key and authorize myself to not need to use a password when connecting to the remote server. I didn't think this was even possible before this lab and think that its really cool that we are able to do this.
+One thing I learned from this week's lab was how to set up an SSH key and authorize myself to not need to use a password when connecting to the remote server. I didn't think this was even possible before this lab and think that it's really cool that we are able to do this. I also understood a bit more on what was actually happening when we located the locations of our private and public keys.
