@@ -17,7 +17,7 @@ In this screenshot we are running the url "http://localhost:4000/add-message?s=H
    This URL runs the method "public String handleRequest(URI url)"
 2. Arguments and Values:
    This function takes in the input of "URI url" which in this case is "http://localhost:4000/add-message?s=Hello"
-   We start off with the variable "String output" which is set to "" and the variable "int number" which is set to 1
+   We start off with the variable "String output" which is set to "" and the variable "int number" which is set to 1.
    
 3. Change:
   Throughout the function, we use certain temporary variables such as "String query" which holds the query in this situation being "s=Hello" and "String[] values" which splits the query at the equal sign meaning it holds "s" at position 0 and "Hello" at position 1.
@@ -33,7 +33,7 @@ In this screenshot, we are running the url "http://localhost:4000/add-message?s=
    This URL runs the method "public String handleRequest(URI url)"
 2. Arguments and Values:
    This function takes in the input of "URI url" which in this case is "http://localhost:4000/add-message?s=How%20are%20you"
-   We start off with the variable "String output" which is already "1. Hello\n" and the variable "int number" which is already 2
+   We start off with the variable "String output" which is already "1. Hello\n" and the variable "int number" which is already 2.
 3. Change:
   Throughout the function, we use certain temporary variables such as "String query" which holds the query in this situation being "s=How are you"  and "String[] values" which splits the query at the equal sign meaning it holds "s" at position 0 and "How are you" at position 1.
 The first change to the variables pre-set outside this function happens to "String output" which used to be "1. Hello\n" and then turns into "1. Hello\n2" and lastly goes to "1. Hello\n2. How are you". After this "int number" goes from 2 to 3.
@@ -57,4 +57,4 @@ The first change to the variables pre-set outside this function happens to "Stri
 ---
 **Part 3:**
 
-One thing I learned from this week's lab was how to set up an SSH key and authorize myself to not need to use a password when connecting to the remote server. I didn't think this was even possible before this lab and think that it's really cool that we are able to do this. I also understood a bit more on what was actually happening when we located the locations of our private and public keys.
+One thing I learned from this week's lab was how to set up an SSH key and authorize myself to not need to use a password when connecting to the remote server. I didn't think this was even possible before this lab and think that it's really cool that we are able to do this. I also understood a bit more about what was actually happening when we located the locations of our private and public keys.
