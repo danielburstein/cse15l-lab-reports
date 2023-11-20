@@ -1,5 +1,7 @@
 # Lab Report 3
 
+[![GoBack]][Back]
+
 ---
 **Part 1:**
 
@@ -141,4 +143,11 @@ Find Command:
 
   Source:
     [linuxize](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+
+[![GoBack]][Back]
+
+<!---------------------------------------------------------------------------->
+
+[GoBack]: https://img.shields.io/badge/%E2%86%90%20Go%20Back-red
+[Back]: https://danielburstein.github.io/cse15l-lab-reports/
 
