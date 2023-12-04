@@ -5,23 +5,21 @@
 
 1. Log into ieng6:
    
-   Command: ``` cs15lfa23by@ieng6.ucsd.ed ```  \<enter\>
+   Command: ``` ssh cs15lfa23by@ieng6.ucsd.ed ```  \<enter\>
+   Result:
+   ![Image](Lab4_Pic1.png)
+   Summary: Running this command would connect and log you into the remote ieng6 server.
    
-  Symptom:
-![Image](FailurSymptom.png)
+2. Clone your fork :
 
-3. A passing test:
-  ~~~
-  @Test
-  public void passTestAverageWithoutLowest() {
-    double[] input1 = {1,2,3,4};
-    assertEquals(3.0, ArrayExamples.averageWithoutLowest(input1),0.000001);
-  }
-  ~~~
-  Symptom:
-  ![Image](PassSymptom.png)
+   Locate the URL:
+   ![Image](Lab4_Pic2.png)
+   Command: ``` ssh cs15lfa23by@ieng6.ucsd.ed ```  \<enter\>
+   Result:
+   ![Image](Lab4_Pic3.png)
+   Summary: Running this command would connect and log you into the remote ieng6 server.
 
-3. Problematic Function:
+4. Problematic Function:
   ~~~
     static double averageWithoutLowest(double[] arr) {
       if(arr.length < 2) { return 0.0; }
