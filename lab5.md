@@ -175,6 +175,7 @@ public class ArrayTests {
 ---
 
 **Reflection**
+
 During lab in the second half of this quarter, I learned a lot of interesting things. One example is during lab 6, we had to setup 
 a project that could take a github link as an input, pull it, and then run our tests on it and give it a grade. In this lab, I learned a lot about bash commands and more about
 junit tests. I was running into an issue with junit tests and talking with a TA we ended up figuring out that we had to change the junit path as we wanted to access it
