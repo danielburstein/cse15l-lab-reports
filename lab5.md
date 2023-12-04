@@ -13,7 +13,7 @@
    
    ![Image](Lab5_Pic1.png)
    
-   > I think I might have done something wrong in my "test.sh" or in my "ArrayTests.java" file
+   > I think I might have done something wrong in my "test.sh" or in my "ArrayTests.java" file.
    > These are the images for what are in those files:
 
    ![Image](Lab5_Pic2.png)
@@ -24,20 +24,20 @@
 
   > Hey, `Student` I see that you are getting an error when you run that bash command. Based on the output
   > in the terminal it seems like this isn't coming from your test.sh file but rather one of your   
-  > assertions are failing. Specifically in the "failTestAverageWithoutLowest" function in your       
+  > assertions is failing. Specifically in the "failTestAverageWithoutLowest" function in your       
   > ArrayTests.java file. This means that when you ran averageWithoutLowest(input1) in that function the
-  > output was not "2.0". So there seems to be a problem in your averageWithoutLowest function. I hope   
+  > output was not "2.0". So there seems to be a problem with your averageWithoutLowest function. I hope   
   > that helps!    
 
 **Student Response**:
 
-  > I went ahead and re checked my averageWithoutLowest function and you were right, I ended up not   
+  > I went ahead and re-checked my averageWithoutLowest function and you were right, I ended up not   
   > creating that function in the way that I wanted so it gave me the wrong result when I ran it.
   > I went ahead and changed that function and now when I run the command `bash test.sh` it all works.
 
   ![Image](Lab5_Pic4.png)
 
-  > Thank you soo much for your help!
+  > Thank you so much for your help!
 
 **Setup Information**:
 
@@ -176,8 +176,8 @@ public class ArrayTests {
 
 **Reflection**
 
-During lab in the second half of this quarter, I learned a lot of interesting things. One example is during lab 6, we had to setup 
-a project that could take a github link as an input, pull it, and then run our tests on it and give it a grade. In this lab, I learned a lot about bash commands and more about
-junit tests. I was running into an issue with junit tests and talking with a TA we ended up figuring out that we had to change the junit path as we wanted to access it
-in a different directory this was really interesting to me as I didn't know you could cd in a .sh file and also showing this to another student who was on windows allowed
-me to understand the differences between windows and mac for bash paths.
+During lab in the second half of this quarter, I learned a lot of interesting things. One example is during lab 6, we had to set up 
+a project that could take a GitHub link as an input, pull it, and then run our tests on it and give it a grade. In this lab, I learned a lot about bash commands and more about
+JUnit tests. I was running into an issue with JUnit tests and talking with a TA we ended up figuring out that we had to change the JUnit path as we wanted to access it
+in a different directory. This was really interesting to me as I didn't know you could cd in a .sh file and also showing this to another student who was on Windows allowed
+me to understand the differences between Windows and mac for bash paths.
