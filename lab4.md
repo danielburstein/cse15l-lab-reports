@@ -1,10 +1,10 @@
-# Lab Report 3
+# Lab Report 4
 
 ---
 **STEP 1**
 
 1. Log into ieng6:
-   Command:
+   Command: ``` cs15lfa23by@ieng6.ucsd.ed ```
   Symptom:
 ![Image](FailurSymptom.png)
 
