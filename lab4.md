@@ -14,7 +14,7 @@
    
    Summary: Running this command would connect and log you into the remote ieng6 server.
    
-3. Clone your fork :
+2. Clone your fork :
 
    Locate the URL:
    
@@ -26,7 +26,7 @@
    
    Summary: Running this command would create a copy of the project on our remote server.
 
-5. Run the tests:
+3. Run the tests:
 
    Commands:
    
@@ -43,7 +43,7 @@
    directory which I switched into with the `cd` command then I re ran the `ls` command to see what was in the lab7 directory. I then ran
    `bash test.sh` to run the shell script file `test.sh`. This file had some commands inside of it so when I ran this file it ended up running the         commands needed which compiled and ran ListExamples.java and ListExamplesTests.java.
    
-7. Edit the code:
+4. Edit the code:
    
    Based on the result of the previous commands we can see that not all of our tests are passing meaning there is a bug in our code.
    
@@ -67,7 +67,7 @@
    After I am in the correct spot I clicked `x` which deletes the the character I am currently on, and then I hit `i` to enter insert mode then I hit
    `2` to insert the character 2 into my file. `\<escape\>` was then used to go back to command mode and then I used the command `:wq` to write and       quit.
    
-9. Run the tests:
+5. Run the tests:
    
    Commands:
    
@@ -81,7 +81,7 @@
    
    Summary: The `bash test.sh` command was 2 up in the search history, so I used the up arrow to access it. So I reran the script which I ran earlier    and this time you can see that all our tests passed.
 
-11. Commit and push:
+6. Commit and push:
 
    Commands:
    
@@ -107,9 +107,9 @@
    ```\<escape\> :wq``` \<enter\>
    ```git push``` \<enter\>
    
-   Summary: I reran the `vim` command  to open the git file. Then I went to line 7 with `:7` I then typed dd to delete the whole line. I then went       into insert mode with `i` and typed "url = " and then pasted the correct url. I lastly went into command mode again using `\<esc\>` and ran `:wq`     to   write and quit.
-   After changing the git file I then use `git add` to add my changes and `git commit` to commit my changes, this commit command puts me in a file in    which I can change the commit message which I do using `i` (insert mode) and then writing my commit message. I lastly go back to command mode with
-   `\<esc\>` and then save my changes with `:wq`. I lastly use the command `git push` which pushes my changes back to my github account.
+   Summary: I reran the `vim` command  to open the git file. Then I went to line 7 with `:7` I then typed    `dd` to delete the whole line. I then went       into insert mode with `i` and typed "url = " and then    pasted the correct url. I lastly went into command mode again using `\<esc\>` and ran `:wq`     to        write and quit.
+   After changing the git file I then use `git add` to add my changes and `git commit` to commit my          changes, this commit command puts me in a file in    which I can change the commit message which I do     using `i` (insert mode) and then writing my commit message. I lastly go back to command mode with
+   `\<esc\>` and then save my changes with `:wq`. I lastly use the command `git push` which pushes my        changes back to my github account.
 
 ---
 
