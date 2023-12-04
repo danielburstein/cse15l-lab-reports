@@ -11,7 +11,7 @@
    > Hey, I am having trouble figuring out what is wrong. I am currently working on lab3 and when I run
    > the command `bash test.sh` into the terminal it is giving me a really big error. This is what it         > shows me:
    
-   ![Image](Lab4_Pic1.png)
+   ![Image](Lab5_Pic1.png)
    
    > I think I might have done something wrong in my "test.sh" or in my "ArrayTests.java" file
    > These are the images for what are in those files:
