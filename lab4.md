@@ -5,7 +5,7 @@
 
 1. Log into ieng6:
    
-   Command: ``` cs15lfa23by@ieng6.ucsd.ed ``` \<enter\>
+   Command: ``` cs15lfa23by@ieng6.ucsd.ed ```  \<enter\>
    
   Symptom:
 ![Image](FailurSymptom.png)
