@@ -41,7 +41,7 @@
 
 **Setup Information**:
 
-ArrayExamples.java file before:
+ArrayExamples.java file (before):
 
 ~~~
 
@@ -86,7 +86,7 @@ public class ArrayExamples {
 
 ~~~
 
-ArrayExamples.java file after:
+ArrayExamples.java file (after):
 
 ~~~
 public class ArrayExamples {
